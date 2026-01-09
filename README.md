@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @keithkruelskie
 - 👀 I’m interested in data, engineering, athletics, and coffee.
-- 🌱 I’m currently learning Jenkins and CI/CD principles.
-- 💞️ I’m looking to collaborate on any projects where an engineer's mind and an athlete's drive is wanted/needed...
 - 📫 How to reach me: k.kruelskie@gmail.com
 
 <!---
